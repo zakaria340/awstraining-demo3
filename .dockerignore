@@ -1,0 +1,6 @@
+.history/
+terraform/
+Dockerfile
+docker-compose.yml
+deploy.sh
+README.md
